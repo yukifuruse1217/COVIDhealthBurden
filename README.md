@@ -22,7 +22,7 @@
 https://github.com/yukifuruse1217/COVIDhealthBurden
 
 
-予測ツールの紹介（外部サイト）
+予測ツールの紹介（外部サイト）：
 
 　　厚生労働省アドバイザリーボード：https://www.mhlw.go.jp/content/10900000/000845990.pdf
 
