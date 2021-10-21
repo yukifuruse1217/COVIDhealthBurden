@@ -28,6 +28,8 @@ https://github.com/yukifuruse1217/COVIDhealthBurden
 
 　　国立感染症研究所ウェブサイト：https://www.niid.go.jp/niid/ja/2019-ncov/2484-idsc/10718-covid19-62.html
 
+　　日本医事新報：https://www.jmedj.co.jp/journal/paper/detail.php?id=18264
+
 予測ツールの開発・検証チーム：古瀬 祐気（京都大学）、和田 耕治（国際医療福祉大学）、押谷 仁（東北大学）、髙 勇羅（国立感染症研究所）、鈴木 基（国立感染症研究所）、脇田 隆字（国立感染症研究所）
 
 文責：古瀬 祐気
