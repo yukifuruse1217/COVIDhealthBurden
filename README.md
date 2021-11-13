@@ -24,6 +24,8 @@ https://github.com/yukifuruse1217/COVIDhealthBurden
 
 本予測ツールの紹介（外部サイト）：
 
+　　内閣官房新型コロナウイルス感染症対策分科会：https://www.cas.go.jp/jp/seisaku/ful/taisakusuisin/bunkakai/dai10/gijisidai.pdf#page=23
+  
 　　厚生労働省アドバイザリーボード：https://www.mhlw.go.jp/content/10900000/000845990.pdf
 
 　　国立感染症研究所ウェブサイト：https://www.niid.go.jp/niid/ja/2019-ncov/2484-idsc/10718-covid19-62.html
